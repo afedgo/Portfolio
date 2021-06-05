@@ -8,6 +8,11 @@
 
 # [Project 1: Sort a list with Binary Search Tree]
 
+![alt text](tracy-adams-TEemXOpR3cQ-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@tracycodes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tracy Adams</a> on <a href="https://unsplash.com/s/photos/java?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 This project creates a GUI interface to let user sort lists of integers or fractions
 * **Java libraries used:** javax.swing, java.awt
 * **Input:** List of integers or fractions
@@ -15,6 +20,10 @@ This project creates a GUI interface to let user sort lists of integers or fract
 
 # [Project 2: Forecasting ERCOT for Texas]
 
+![alt text](matthew-henry-yETqkLnhsUI-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matthew Henry</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 This Kaggle project makes use of ***time-series analysis*** of ERCOT values in Texas looking at other factors such as weather conditions
 * **Python libraries used:** Pandas, Numpy, Statsmodels, Pmdarima, Seaborn, Scipy
 * **Input:** Ercot and weather valuse for the 8 regions of texas from 2008-current
