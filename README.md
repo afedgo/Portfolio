@@ -28,3 +28,14 @@ This Kaggle project makes use of ***time-series analysis*** of ERCOT values in T
 * **Python libraries used:** Pandas, Numpy, Statsmodels, Pmdarima, Seaborn, Scipy
 * **Input:** Ercot and weather valuse for the 8 regions of texas from 2008-current
 * **Output:** Hourly prediction of ercot values for a 7-day period
+
+# [Project 3: LinkedIn Analytics]
+
+![alt text](inlytics-linkedin-analytics-tool-Z7MNWch3LPs-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@inlytics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">inlytics | LinkedIn Analytics Tool</a> on <a href="https://unsplash.com/s/photos/linkedin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+This project makes use of LinkedIn metrics to analyze the reach of posts
+* **Tableau charts:** Bar graph, line graph
+* **Input:** LinkedIn posts dates, types, and participation rates
+* **Output:** Tableau dashboards
