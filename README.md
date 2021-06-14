@@ -39,3 +39,14 @@ This project makes use of LinkedIn metrics to analyze the reach of posts
 * **Tableau charts:** Bar graph, line graph
 * **Input:** LinkedIn posts dates, types, and participation rates
 * **Output:** Tableau dashboards
+
+# [Project 4: Analyzing golf performance]
+
+![alt text](obi-onyeador-FVbG_r5H_Cc-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Obi Onyeador</a> on <a href="https://unsplash.com/s/photos/pga-golf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+This project makes use of several algorithms to assess and predict golf performance
+* **Python libraries used:** Pandas, Numpy, scikit-learn, graphviz
+* **Input:** Golf stats from 2015 to 2021 at all PGA Golf tournaments
+* **Output:** Decision Tree analysis (more to come)
