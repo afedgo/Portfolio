@@ -47,6 +47,6 @@ This project makes use of LinkedIn metrics to analyze the reach of posts
 Photo by <a href="https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Obi Onyeador</a> on <a href="https://unsplash.com/s/photos/pga-golf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 This project makes use of several algorithms to assess and predict golf performance
-* **Python libraries used:** Pandas, Numpy, scikit-learn, graphviz
+* **Python libraries used:** Pandas, Numpy, scikit-learn, graphviz, matplotlib, seaborn
 * **Input:** Golf stats from 2015 to 2021 at all PGA Golf tournaments
-* **Output:** Decision Tree analysis (more to come)
+* **Output:** Decision Tree, Random Forest (more to come)
