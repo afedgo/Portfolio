@@ -49,4 +49,4 @@ Photo by <a href="https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_me
 This project makes use of several algorithms to assess and predict golf performance
 * **Python libraries used:** Pandas, Numpy, scikit-learn, graphviz, matplotlib, seaborn
 * **Input:** Golf stats from 2015 to 2021 at all PGA Golf tournaments
-* **Output:** Decision Tree, Random Forest, Stats on top players for score and strokes gained (more to come)
+* **Output:** Decision Tree, Random Forest, Stats on top players for score and strokes gained, Clustering (more to come)
