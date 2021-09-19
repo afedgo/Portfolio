@@ -1,10 +1,24 @@
 # Alyssa Fedgo
-*An Aspiring Data Scientist | Current Senior Data Analyst with research project featured in CNN article
+*Data Scientist 
+
+
+# Mission
+
+My mission is to use data science to gain more understanding in the fields of health and behavior science. 
+
+My preferred tools for analytics include SAS, Python, and Tableau.
+
+I'm active on LinkedIn in order to form a data science community that promotes growth and support. Connect with me here www.linkedin.com/in/alyssa-fedgo-mph. 
+
+My future goal is to help teach the future generation of data scientists!
+
 
 # Education
 * Masters of Public Health (Epidemiology and Biostatistics), *University of South Florida*, 2014-2017
 * Bachelors of Science (Computer Science), *University of Maryland Global Campus*, 2019-2020
 * Bachelors of Science (Biomedical Science), *University of South Florida*, 2010-2014
+
+
 
 # [Project 1: Sort a list with Binary Search Tree]
 
@@ -29,18 +43,8 @@ This Kaggle project makes use of ***time-series analysis*** of ERCOT values in T
 * **Input:** Ercot and weather valuse for the 8 regions of texas from 2008-current
 * **Output:** Hourly prediction of ercot values for a 7-day period
 
-# [Project 3: LinkedIn Analytics]
 
-![alt text](inlytics-linkedin-analytics-tool-Z7MNWch3LPs-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@inlytics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">inlytics | LinkedIn Analytics Tool</a> on <a href="https://unsplash.com/s/photos/linkedin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-This project makes use of LinkedIn metrics to analyze the reach of posts
-* **Tableau charts:** Bar graph, line graph
-* **Input:** LinkedIn posts dates, types, and participation rates
-* **Output:** Tableau dashboards
-
-# [Project 4: Analyzing golf performance]
+# [Project 3: Analyzing golf performance]
 
 ![alt text](obi-onyeador-FVbG_r5H_Cc-unsplash.jpg)
 
@@ -50,3 +54,15 @@ This project makes use of several algorithms to assess and predict golf performa
 * **Python libraries used:** Pandas, Numpy, scikit-learn, graphviz, matplotlib, seaborn
 * **Input:** Golf stats from 2015 to 2021 at all PGA Golf tournaments
 * **Output:** Decision Tree, Random Forest, Stats on top players for score and strokes gained, Clustering (more to come)
+
+
+
+# [Project 4: Python Tutorials]
+
+![alt text](obi-onyeador-FVbG_r5H_Cc-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Obi Onyeador</a> on <a href="https://unsplash.com/s/photos/pga-golf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+This project provides tuturials for beginners in python
+* **Python libraries used:** math
+
