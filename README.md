@@ -1,5 +1,5 @@
 # Alyssa Fedgo
-*Data Scientist 
+Data Scientist 
 
 
 # Mission
@@ -59,9 +59,9 @@ This project makes use of several algorithms to assess and predict golf performa
 
 # [Project 4: Python Tutorials]
 
-![alt text](obi-onyeador-FVbG_r5H_Cc-unsplash.jpg)
+![alt text](tracy-adams-TEemXOpR3cQ-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Obi Onyeador</a> on <a href="https://unsplash.com/s/photos/pga-golf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@tracycodes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tracy Adams</a> on <a href="https://unsplash.com/s/photos/java?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 This project provides tuturials for beginners in python
 * **Python libraries used:** math
