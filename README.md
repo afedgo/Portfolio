@@ -1,6 +1,3 @@
-# Alyssa Fedgo
-Data Scientist 
-
 
 # Mission
 
